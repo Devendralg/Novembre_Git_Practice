@@ -8,6 +8,12 @@ public class GitPracticeTest {
 	public void mTest()
 	{
 		System.out.println("Devendra");
+		System.out.println("Devendra");
+	}
+	public void nTest()
+	{
+		System.out.println("Devendra");
+		System.out.println("Devendra");
 	}
 
 }
