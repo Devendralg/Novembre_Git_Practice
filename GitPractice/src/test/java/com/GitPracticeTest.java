@@ -22,4 +22,9 @@ public class GitPracticeTest {
 		System.out.println("Parameshwar");
 	}
 
+	@Test
+	public void cartTest() {
+		
+		System.out.println("A");
+	}
 }
