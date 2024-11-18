@@ -15,5 +15,11 @@ public class GitPracticeTest {
 		System.out.println("Devendra");
 		System.out.println("Devendra");
 	}
+	
+	@Test
+	public void dTest()
+	{
+		System.out.println("Parameshwar");
+	}
 
 }
