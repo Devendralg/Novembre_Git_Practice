@@ -22,10 +22,15 @@ public class GitPracticeTest {
 		System.out.println("Parameshwar");
 	}
 	
+//	@Test
+//	public void cartTest()
+//	{
+//		System.out.println("A");
+//	}
+
 	@Test
-	public void cartTest()
-	{
+	public void cartTest() {
+		
 		System.out.println("A");
 	}
-
 }
