@@ -11,5 +11,8 @@ public class DevendraTest {
 		int rand = random.nextInt(500);
 		return rand;
 	}
+	
+	int a=10;
+	int b=20;
 
 }
